@@ -7,7 +7,7 @@ Standards-Version: 3.9.1
 Package: galliumos-skylake
 Architecture: all
 Priority: required
-Depends: galliumos-base, linux-image-galliumos-skylake
+#Depends: galliumos-base, linux-image-galliumos-skylake
 Provides: galliumos-device
 Conflicts: galliumos-sandyivy, galliumos-haswell, galliumos-baytrail, galliumos-broadwell, galliumos-samus, galliumos-braswell, Xgalliumos-skylake, galliumos-apollolake, galliumos-kabylake
 #Replaces: galliumos-haswell, galliumos-sandyivy, galliumos-baytrail, galliumos-broadwell, galliumos-braswell, galliumos-apollolake, galliumos-kabylake
